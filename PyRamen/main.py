@@ -150,14 +150,14 @@ for menu_item, value_dict in report.items():
 # print(report) to check values
 
 
-# In[18]:
+# In[20]:
 
 
 # set the output path for the text file
-output_path = "pyramen_results.text"
+output_path = "pyramen_results.txt"
 
 
-# In[19]:
+# In[21]:
 
 
 # write the text file
